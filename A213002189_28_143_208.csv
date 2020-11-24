@@ -1,0 +1,20 @@
+ Óbitos infantis - Rio Grande do Sul
+Óbitos p/Residênc por Ano do Óbito e Região de Saúde (CIR)
+Faixa etária 1: 0 a 6 dias
+Período:2014-2018
+"Ano do Óbito";"43001 Região 01 - Verdes Campos";"43002 Região 02 - Entre Rios";"43003 Região 03 - Fronteira Oeste";"43004 Região 04 - Belas Praias";"43005 Região 05 - Bons Ventos";"43006 Região 06 - Vale do Paranhana e Costa Serr";"43007 Região 07 - Vale dos Sinos";"43008 Região 08 - Vale do Caí e Metropolitana";"43009 Região 09 - Carbonífera/Costa Doce";"43010 Região 10 - Capital e Vale do Gravataí";"43011 Região 11 - Sete Povos das Missões";"43012 Região 12 - Portal das Missões";"43013 Região 13 - Diversidade";"43014 Região 14 - Fronteira Noroeste";"43015 Região 15 - Caminho das Águas";"43016 Região 16 - Alto Uruguai Gaúcho";"43017 Região 17 - Planalto";"43018 Região 18 - Araucárias";"43019 Região 19 - Botucaraí";"43020 Região 20 - Rota da Produção";"43021 Região 21 - Sul";"43022 Região 22 - Pampa";"43023 Região 23 - Caxias e Hortênsias";"43024 Região 24 - Campos de Cima da Serra";"43025 Região 25 - Vinhedos e Basalto";"43026 Região 26 - Uva Vale";"43027 Região 27 - Jacuí Centro";"43028 Região 28 - Vinte e Oito";"43029 Região 29 - Vales e Montanhas";"43030 Região 30 - Vale da Luz";"Total"
+"2014";23;7;44;10;10;19;60;60;19;144;20;13;22;21;15;17;23;7;8;12;56;15;47;10;18;8;7;16;15;7;753
+"2015";18;9;35;8;20;18;58;51;23;131;13;12;15;22;10;11;43;16;9;8;72;24;40;11;22;5;13;15;14;12;758
+"2016";16;4;35;9;16;13;50;41;16;119;28;9;19;16;10;12;28;11;9;5;82;14;34;8;11;11;19;32;14;6;697
+"2017";18;11;38;10;15;15;56;53;28;134;19;11;14;23;14;12;27;7;8;10;54;15;35;9;17;7;13;26;10;4;713
+"2018";27;10;45;8;11;10;55;41;23;128;21;11;19;18;12;11;35;7;8;7;74;10;36;12;10;12;18;19;14;5;717
+"Total";102;41;197;45;72;75;279;246;109;656;101;56;89;100;61;63;156;48;42;42;338;78;192;50;78;43;70;108;67;34;3638
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ 
